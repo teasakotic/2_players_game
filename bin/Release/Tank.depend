@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1363826088 source:c:\users\bruno\desktop\tudo\programacao\c++\codeblocks\sdl\tank\tank.cpp
+	<iostream>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<string>
+	<fstream>
+	"Tank.h"
+	"Tela.h"
+	"Mapa.h"
+	"SDL/SDL_rotozoom.h"
+
+1363826088 c:\users\bruno\desktop\tudo\programacao\c++\codeblocks\sdl\tank\tank.h
+	<string>
+	"Tela.h"
+	"Mapa.h"
+	<SDL/SDL.h>
+
+1359287954 c:\users\bruno\desktop\tudo\programacao\c++\codeblocks\sdl\tank\tela.h
+	<string>
+	<SDL/SDL.h>
+
+1363826410 c:\users\bruno\desktop\tudo\programacao\c++\codeblocks\sdl\tank\mapa.h
+	<string>
+	<fstream>
+	"Tela.h"
+
+1359287992 source:c:\users\bruno\desktop\tudo\programacao\c++\codeblocks\sdl\tank\tela.cpp
+	"Tela.h"
+	<iostream>
+	<string>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1363826088 source:c:\users\bruno\desktop\tudo\programacao\c++\codeblocks\sdl\tank\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"Mapa.h"
+	"Tank.h"
+	"Tela.h"
+	"Tijolo.h"
+	"SDL/SDL_rotozoom.h"
+
+1363826352 source:c:\users\bruno\desktop\tudo\programacao\c++\codeblocks\sdl\tank\mapa.cpp
+	<iostream>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<string>
+	<fstream>
+	"Mapa.h"
+	"Tela.h"
+
+1362254717 source:c:\users\bruno\desktop\tudo\programacao\c++\codeblocks\sdl\tank\tijolo.cpp
+	<iostream>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<string>
+	<fstream>
+	"Tijolo.h"
+	"Tela.h"
+
+1362254115 c:\users\bruno\desktop\tudo\programacao\c++\codeblocks\sdl\tank\tijolo.h
+	<string>
+	<fstream>
+	"Tela.h"
+

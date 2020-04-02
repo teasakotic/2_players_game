@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Mapa.cpp" open="1" top="1" tabpos="5">
+		<Cursor position="303" topLine="84" />
+	</File>
+	<File name="Mapa.h" open="1" top="0" tabpos="4">
+		<Cursor position="1142" topLine="20" />
+	</File>
+	<File name="Tank.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="6432" topLine="279" />
+	</File>
+	<File name="Tank.h" open="1" top="0" tabpos="2">
+		<Cursor position="1095" topLine="65" />
+	</File>
+	<File name="Tela.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="141" topLine="60" />
+	</File>
+	<File name="Tela.h" open="0" top="0" tabpos="6">
+		<Cursor position="387" topLine="3" />
+	</File>
+	<File name="Tijolo.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="5158" topLine="199" />
+	</File>
+	<File name="Tijolo.h" open="0" top="0" tabpos="4">
+		<Cursor position="169" topLine="26" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="6911" topLine="149" />
+	</File>
+</CodeBlocks_layout_file>

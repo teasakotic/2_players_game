@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1363827438 source:c:\users\bruno\desktop\tudo\programacao\c++\codeblocks\sdl\tank\tank.cpp
+	<iostream>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<string>
+	<fstream>
+	"Tank.h"
+	"Tela.h"
+	"Mapa.h"
+	"SDL/SDL_rotozoom.h"
+
+1363827438 c:\users\bruno\desktop\tudo\programacao\c++\codeblocks\sdl\tank\tank.h
+	<string>
+	"Tela.h"
+	"Mapa.h"
+	<SDL/SDL.h>
+
+1359287954 c:\users\bruno\desktop\tudo\programacao\c++\codeblocks\sdl\tank\tela.h
+	<string>
+	<SDL/SDL.h>
+
+1363827540 c:\users\bruno\desktop\tudo\programacao\c++\codeblocks\sdl\tank\mapa.h
+	<string>
+	<fstream>
+	"Tela.h"
+
+1359287992 source:c:\users\bruno\desktop\tudo\programacao\c++\codeblocks\sdl\tank\tela.cpp
+	"Tela.h"
+	<iostream>
+	<string>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1363827438 source:c:\users\bruno\desktop\tudo\programacao\c++\codeblocks\sdl\tank\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"Mapa.h"
+	"Tank.h"
+	"Tela.h"
+	"SDL/SDL_rotozoom.h"
+
+1363827540 source:c:\users\bruno\desktop\tudo\programacao\c++\codeblocks\sdl\tank\mapa.cpp
+	<iostream>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<string>
+	<fstream>
+	"Mapa.h"
+	"Tela.h"
+
+1362254717 source:c:\users\bruno\desktop\tudo\programacao\c++\codeblocks\sdl\tank\tijolo.cpp
+	<iostream>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<string>
+	<fstream>
+	"Tijolo.h"
+	"Tela.h"
+
+1362254115 c:\users\bruno\desktop\tudo\programacao\c++\codeblocks\sdl\tank\tijolo.h
+	<string>
+	<fstream>
+	"Tela.h"
+
+1564952378 source:c:\users\teodora\desktop\tenkici - copy (2)\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"Mapa.h"
+	"Tank.h"
+	"Tela.h"
+	"SDL/SDL_rotozoom.h"
+
+1564952378 c:\users\teodora\desktop\tenkici - copy (2)\mapa.h
+	<string>
+	<fstream>
+	"Tela.h"
+
+1564952378 c:\users\teodora\desktop\tenkici - copy (2)\tela.h
+	<string>
+	<SDL/SDL.h>
+
+1565008037 c:\users\teodora\desktop\tenkici - copy (2)\tank.h
+	<string>
+	"Tela.h"
+	"Mapa.h"
+	<SDL/SDL.h>
+
+1564952378 source:c:\users\teodora\desktop\tenkici - copy (2)\mapa.cpp
+	<iostream>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<string>
+	<fstream>
+	"Mapa.h"
+	"Tela.h"
+
+1564952378 source:c:\users\teodora\desktop\tenkici - copy (2)\tank.cpp
+	<iostream>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<string>
+	<fstream>
+	"Tank.h"
+	"Tela.h"
+	"Mapa.h"
+	"SDL/SDL_rotozoom.h"
+
+1564952378 source:c:\users\teodora\desktop\tenkici - copy (2)\tela.cpp
+	"Tela.h"
+	<iostream>
+	<string>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
